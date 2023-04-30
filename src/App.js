@@ -1,5 +1,4 @@
 import './App.css'
-import '../node_modules/bootstrap/dist/css/bootstrap.css'
 import NavBar from './Components/NavBar';
 import Login from './Components/Login';
 
