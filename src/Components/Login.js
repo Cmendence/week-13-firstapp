@@ -13,7 +13,7 @@ export default class Login extends Component {
             <div className="container">
                 <div className="card">
                     <div className="card-body bg-secondary text-light rounded text-center">
-                        <h1>Log In</h1>
+                        <h3>Log In</h3>
                         <div className="form-group">
                             <div>
                             <label for="email-input">Email</label>
